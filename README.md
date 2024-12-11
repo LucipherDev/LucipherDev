@@ -1,13 +1,12 @@
-## ComfyUI Custom Nodes
+## 🔧 ComfyUI Custom Nodes
 
 | Repository | Description | |
 |---|---|---|
 | **ComfyUI-Golden-Noise** [<sup>[Link]</sup>](https://github.com/LucipherDev/ComfyUI-Golden-Noise) | ComfyUI Custom Node for [Golden-Noise-for-Diffusion-Models](https://github.com/xie-lab-ml/Golden-Noise-for-Diffusion-Models) | ![GitHub Repo stars](https://img.shields.io/github/stars/LucipherDev/ComfyUI-Golden-Noise?label=%E2%AD%90&style=flat-square) |
 
+## 📓 Jupyter Notebooks
 
-## Jupyter Notebooks
-
-- ### Flux Jupyter Notebooks
+- ### ⚡ Flux Jupyter Notebooks
 
 | Repository | Description | |
 |---|---|---|
