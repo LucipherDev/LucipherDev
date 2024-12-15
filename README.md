@@ -14,7 +14,7 @@
 | **Flux.1-dev-ControlNet-jupyter** [<sup>[Link]</sup>](https://github.com/LucipherDev/Flux.1-dev-ControlNet-jupyter) | ControlNet with Txt2Img \| Img2Img \| + Multiple LoRAs, All in one jupyter notebook for Flux.1 dev. Able to run on Google Colab Free Tier | ![GitHub Repo stars](https://img.shields.io/github/stars/LucipherDev/Flux.1-dev-ControlNet-jupyter?label=%E2%AD%90&style=flat-square) |
 | **Flux.1-fill-jupyter** [<sup>[Link]</sup>](https://github.com/LucipherDev/Flux.1-fill-jupyter) | Jupyter notebooks for Inpainting \| Outpainting with Flux.1 Fill dev. Able to run on Google Colab Free Tier | ![GitHub Repo stars](https://img.shields.io/github/stars/LucipherDev/Flux.1-fill-jupyter?label=%E2%AD%90&style=flat-square) |
 | **Flux.1-dev-PuLID-jupyter** [<sup>[Link]</sup>](https://github.com/LucipherDev/Flux.1-dev-PuLID-jupyter) | Jupyter notebooks for PuLID face transfer with Flux.1 dev. Able to run on Google Colab Free Tier | ![GitHub Repo stars](https://img.shields.io/github/stars/LucipherDev/Flux.1-dev-PuLID-jupyter?label=%E2%AD%90&style=flat-square) |
-
+| **Flux.1-redux-jupyter** [<sup>[Link]</sup>](https://github.com/LucipherDev/Flux.1-redux-jupyter) | Jupyter notebooks for image variation generation with Flux.1 Redux dev. Able to run on Google Colab Free Tier | ![GitHub Repo stars](https://img.shields.io/github/stars/LucipherDev/Flux.1-redux-jupyter?label=%E2%AD%90&style=flat-square) |
 ____
 ***Got questions or suggestions? Feel free to fork my repos and reach out!***
 ____
