@@ -1,3 +1,5 @@
+![Github Profile Views](https://komarev.com/ghpvc/?username=LucipherDev&label=Profile%20views&style=flat&cacheSeconds=60)
+
 ## 🔧 ComfyUI Custom Nodes
 
 | Repository | Description |📊 |
@@ -17,4 +19,7 @@
 | **Flux.1-redux-jupyter** [<sup>[Link]</sup>](https://github.com/LucipherDev/Flux.1-redux-jupyter) | Jupyter notebooks for image variation generation with Flux.1 Redux dev. Able to run on Google Colab Free Tier | ![GitHub Repo stars](https://img.shields.io/github/stars/LucipherDev/Flux.1-redux-jupyter?label=%E2%AD%90&style=flat-square&cacheSeconds=60) |
 ____
 ***Got questions or suggestions? Feel free to fork my repos and reach out!***
+____
+![LucipherDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucipherDev&show_icons=true&theme=dark&hide_border=true&border_radius=1&hide_rank=true#gh-dark-mode-only) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucipherDev&theme=dark&hide_border=true&border_radius=1&#gh-dark-mode-only)
 ____
