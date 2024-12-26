@@ -5,6 +5,7 @@
 | Repository | Description |📊 |
 |---|---|---|
 | **ComfyUI-Golden-Noise** [<sup>[Link]</sup>](https://github.com/LucipherDev/ComfyUI-Golden-Noise) | ComfyUI Custom Node for [Golden-Noise-for-Diffusion-Models](https://github.com/xie-lab-ml/Golden-Noise-for-Diffusion-Models) | ![GitHub Repo stars](https://img.shields.io/github/stars/LucipherDev/ComfyUI-Golden-Noise?label=%E2%AD%90&style=flat-square&cacheSeconds=60) |
+| **ComfyUI-AniDoc** [<sup>[Link]</sup>](https://github.com/LucipherDev/ComfyUI-AniDoc) | ComfyUI Custom Nodes for [AniDoc: Animation Creation Made Easier](https://github.com/yihao-meng/AniDoc) | ![GitHub Repo stars](https://img.shields.io/github/stars/LucipherDev/ComfyUI-AniDoc?label=%E2%AD%90&style=flat-square&cacheSeconds=60) |
 
 ## 📓 Jupyter Notebooks
 
