@@ -8,6 +8,12 @@
 | **ComfyUI-AniDoc** [<sup>[Link]</sup>](https://github.com/LucipherDev/ComfyUI-AniDoc) | ComfyUI Custom Nodes for [AniDoc: Animation Creation Made Easier](https://github.com/yihao-meng/AniDoc) | ![GitHub Repo stars](https://img.shields.io/github/stars/LucipherDev/ComfyUI-AniDoc?label=%E2%AD%90&style=flat-square&cacheSeconds=60) |
 | **ComfyUI-TangoFlux** [<sup>[Link]</sup>](https://github.com/LucipherDev/ComfyUI-TangoFlux) | ComfyUI Custom Nodes for [TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching](https://github.com/declare-lab/TangoFlux) | ![GitHub Repo stars](https://img.shields.io/github/stars/LucipherDev/ComfyUI-TangoFlux?label=%E2%AD%90&style=flat-square&cacheSeconds=60) |
 
+## 🧩 ComfyUI Extensions
+
+| Repository | Description |📊 |
+|---|---|---|
+| **ComfyUI-Sentinel** [<sup>[Link]</sup>](https://github.com/LucipherDev/ComfyUI-Sentinel) | ComfyUI Extension for Advanced Security. Implements login, multi-user registration, IP filtering, and user-specific input/output directories. | ![GitHub Repo stars](https://img.shields.io/github/stars/LucipherDev/ComfyUI-Sentinel?label=%E2%AD%90&style=flat-square&cacheSeconds=60) |
+
 ## 📓 Jupyter Notebooks
 
 - ### ⚡ Flux Jupyter Notebooks
